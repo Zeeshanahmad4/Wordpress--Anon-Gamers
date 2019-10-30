@@ -63,11 +63,7 @@ git clone https://github.com/Zeeshanahmad4/Wordpress--Anon-Gamers
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-I am attaching full wordpresss design created by me in .wpress file 
-you just have to install pluging "all in one wordpress migration"
-and import .wpress file
-or you can use import code i attache
-website is fullu build up you can check it on your own . 
+I am attaching full WordPress design created by me in .wpress file you just have to install plugins "all in one WordPress migration" and import .wpress file or you can use import code I attache website is full build-up you can check it on your own.
 
 ```sh
 all in one wordpress migration
