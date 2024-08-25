@@ -9,7 +9,6 @@ Creating a  bloging website on wordpress using bridge theme
     <img src="https://github.com/Zeeshanahmad4/Wordpress--Anon-Gamers/blob/master/7.png" alt="Logo" width="130" height="140">
   </a>
   <h3 align="center">WEB Development</h3>
-  <h3 align="center">link <a href="https://anongamers.com/"> Anon Gamers </a> </h3>
 </p>
 
 
